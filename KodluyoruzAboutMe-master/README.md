@@ -1,2 +1,0 @@
-# KodluyoruzAboutMe
-Kodluyoruz About Ogün
